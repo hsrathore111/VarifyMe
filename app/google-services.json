@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504475041121",
+    "firebase_url": "https://varifyme-d3573.firebaseio.com",
+    "project_id": "varifyme-d3573",
+    "storage_bucket": "varifyme-d3573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504475041121:android:ab291b406d025fbc",
+        "android_client_info": {
+          "package_name": "com.example.himmat.varifyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504475041121-c1uj7n3pf30j8nu0g92aoamj4llkfkh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himmat.varifyme",
+            "certificate_hash": "64f8b4bb3255b5ddd5f082017c6f7be169547025"
+          }
+        },
+        {
+          "client_id": "504475041121-1ruvsmfsljrfn5v5nioh3qmhes6j72dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJQ7d6fYkQaUBl-wGK48PuRe9aMt-ERg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504475041121-1ruvsmfsljrfn5v5nioh3qmhes6j72dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
